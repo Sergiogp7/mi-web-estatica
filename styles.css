@@ -14,7 +14,7 @@ body {
 
 /* Estilos para la cabecera */
 header {
-    background-color: #4a90e2;
+    background-color: #48d12d;
     color: white;
     padding: 20px;
     text-align: center;
@@ -58,7 +58,7 @@ header .logo {
 }
 
 .sidebar ul li a:hover {
-    color: #4a90e2;
+    color: #6de24a;
 }
 
 /* Estilos para el contenido principal */
