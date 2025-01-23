@@ -102,3 +102,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+img.logo {
+    width: 100px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
